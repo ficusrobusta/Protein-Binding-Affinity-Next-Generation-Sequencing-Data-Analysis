@@ -24,5 +24,4 @@ Figure 1​. The IUPAC sequence of the variant library.
  
 
 
-Figure 2. ​The experimental design that produced the ​sequence_table.csv​ file.
  
